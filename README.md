@@ -43,3 +43,13 @@
 - [个人记录与素材来源索引](archive/personal/README.md)
 
 个人记录单独归档是为了组织内容，不代表访问权限隔离。
+
+## 详细长期档案（2026-10-11 新增）
+
+用户后续明确要求上传三份长期档案及原始交付压缩包，完整保存在 [长期档案目录](archive/relationship-long-term-2026-10-11/README.md)。其中包含可见聊天原话、分手与后续联系的来源分级和 113 份素材索引；这些文字随本公开仓库可读。原文件中的“仅本地／未上传”表示初次整理时的历史状态，后续授权范围见目录说明。
+
+- [完整关系长期档案](archive/relationship-long-term-2026-10-11/FULL_RELATIONSHIP_HISTORY.md)
+- [OneDay 项目背景](archive/relationship-long-term-2026-10-11/PROJECT_CONTEXT.md)
+- [长期档案阅读与隐私规则](archive/relationship-long-term-2026-10-11/AGENTS.md)
+
+此次上传不包含原始照片、视频或截图图片，也不包含网站部署。
