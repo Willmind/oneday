@@ -1,0 +1,23 @@
+# OneDay supplementary exclusions. Merge with an existing file; do not replace it.
+# Originals and private records should live outside the repository.
+.DS_Store
+._*
+__MACOSX/
+/private-local/
+/private/
+/raw-media/
+/originals/
+/asset-work/
+/chat-exports/
+/deliverables/
+美好回忆记录/
+美好回忆记录.zip
+oneday-*-memory*.zip
+PRIVATE_*.md
+ASSET_INDEX_LOCAL.md
+SOURCE_AUDIT_LOCAL.md
+
+# The current personal Markdown archive was explicitly authorized by the user.
+!/archive/
+!/archive/personal/
+!/archive/personal/*.md
